@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{42ECF0FE-600C-4C4F-9AAA-8CF5134E8D22}|001_HelloWorld\\001_HelloWorld.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\001_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42ECF0FE-600C-4C4F-9AAA-8CF5134E8D22}|001_HelloWorld\\001_HelloWorld.csproj|solutionrelative:001_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6067DA57-E19C-42CB-B068-B4AAF3C89EB9}|001_Mission\\001_Mission.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\001_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6067DA57-E19C-42CB-B068-B4AAF3C89EB9}|001_Mission\\001_Mission.csproj|solutionrelative:001_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,17 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_Mission\\Program.cs",
+              "RelativeDocumentMoniker": "001_Mission\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_Mission\\Program.cs",
+              "RelativeToolTip": "001_Mission\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:05:23.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +45,7 @@
               "RelativeDocumentMoniker": "001_HelloWorld\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_HelloWorld\\Program.cs",
               "RelativeToolTip": "001_HelloWorld\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T16:56:36.916Z",
               "EditorCaption": ""
