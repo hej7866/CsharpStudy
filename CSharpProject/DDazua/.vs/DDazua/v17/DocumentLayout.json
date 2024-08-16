@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42ECF0FE-600C-4C4F-9AAA-8CF5134E8D22}|001_HelloWorld\\001_HelloWorld.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\001_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42ECF0FE-600C-4C4F-9AAA-8CF5134E8D22}|001_HelloWorld\\001_HelloWorld.csproj|solutionrelative:001_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6067DA57-E19C-42CB-B068-B4AAF3C89EB9}|001_Mission\\001_Mission.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\001_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6067DA57-E19C-42CB-B068-B4AAF3C89EB9}|001_Mission\\001_Mission.csproj|solutionrelative:001_mission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2901CEA0-D3FC-44BC-B066-D71AE9EFD6F8}|002_Variable\\002_Variable.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\002_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2901CEA0-D3FC-44BC-B066-D71AE9EFD6F8}|002_Variable\\002_Variable.csproj|solutionrelative:002_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_Mission\\Program.cs",
-              "RelativeDocumentMoniker": "001_Mission\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_Mission\\Program.cs",
-              "RelativeToolTip": "001_Mission\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T13:05:23.553Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_HelloWorld\\Program.cs",
-              "RelativeDocumentMoniker": "001_HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\001_HelloWorld\\Program.cs",
-              "RelativeToolTip": "001_HelloWorld\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\002_Variable\\Program.cs",
+              "RelativeDocumentMoniker": "002_Variable\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\002_Variable\\Program.cs",
+              "RelativeToolTip": "002_Variable\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T16:56:36.916Z",
+              "WhenOpened": "2024-08-16T14:51:42.058Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
