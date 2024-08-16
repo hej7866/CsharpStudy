@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\bin\Debug\003_Integer.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\bin\Debug\003_Integer.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\bin\Debug\003_Integer.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\obj\Debug\003_Integer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\obj\Debug\003_Integer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\obj\Debug\003_Integer.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Integer\obj\Debug\003_Integer.pdb
