@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\bin\Debug\003_Mission.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\bin\Debug\003_Mission.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\bin\Debug\003_Mission.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\obj\Debug\003_Mission.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\obj\Debug\003_Mission.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\obj\Debug\003_Mission.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\003_Mission\obj\Debug\003_Mission.pdb

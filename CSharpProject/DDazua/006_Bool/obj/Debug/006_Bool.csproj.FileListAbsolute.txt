@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\bin\Debug\006_Bool.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\bin\Debug\006_Bool.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\bin\Debug\006_Bool.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\obj\Debug\006_Bool.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\obj\Debug\006_Bool.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\obj\Debug\006_Bool.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\006_Bool\obj\Debug\006_Bool.pdb

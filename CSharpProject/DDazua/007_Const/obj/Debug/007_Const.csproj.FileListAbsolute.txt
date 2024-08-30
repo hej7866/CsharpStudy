@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\bin\Debug\007_Const.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\bin\Debug\007_Const.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\bin\Debug\007_Const.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\obj\Debug\007_Const.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\obj\Debug\007_Const.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\obj\Debug\007_Const.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\007_Const\obj\Debug\007_Const.pdb
