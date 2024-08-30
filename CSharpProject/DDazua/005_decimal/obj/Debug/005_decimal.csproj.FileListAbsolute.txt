@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\bin\Debug\005_decimal.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\bin\Debug\005_decimal.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\bin\Debug\005_decimal.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\obj\Debug\005_decimal.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\obj\Debug\005_decimal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\obj\Debug\005_decimal.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\005_decimal\obj\Debug\005_decimal.pdb

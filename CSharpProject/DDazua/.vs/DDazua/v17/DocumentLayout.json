@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB715E28-0E59-4C0E-8868-F9A492BDD759}|005_decimal\\005_decimal.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\005_decimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB715E28-0E59-4C0E-8868-F9A492BDD759}|005_decimal\\005_decimal.csproj|solutionrelative:005_decimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F671C81C-CC3C-461B-B534-8A6DCB820A6C}|004_Float_Double\\004_Float_Double.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\004_float_double\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F671C81C-CC3C-461B-B534-8A6DCB820A6C}|004_Float_Double\\004_Float_Double.csproj|solutionrelative:004_float_double\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB34C30-FEE4-4CC8-88D5-B9E3C367E923}|002_Misson\\002_Misson.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\002_misson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB34C30-FEE4-4CC8-88D5-B9E3C367E923}|002_Misson\\002_Misson.csproj|solutionrelative:002_misson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AD1143C-CDF8-4275-B73C-C25F139AE852}|003_Integer\\003_Integer.csproj|c:\\users\\user\\desktop\\csharpstudy\\csharpproject\\ddazua\\003_integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AD1143C-CDF8-4275-B73C-C25F139AE852}|003_Integer\\003_Integer.csproj|solutionrelative:003_integer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\005_decimal\\Program.cs",
+              "RelativeDocumentMoniker": "005_decimal\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\005_decimal\\Program.cs",
+              "RelativeToolTip": "005_decimal\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:44:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\004_Float_Double\\Program.cs",
+              "RelativeDocumentMoniker": "004_Float_Double\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\004_Float_Double\\Program.cs",
+              "RelativeToolTip": "004_Float_Double\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:22:15.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\002_Misson\\Program.cs",
+              "RelativeDocumentMoniker": "002_Misson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\002_Misson\\Program.cs",
+              "RelativeToolTip": "002_Misson\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:17:08.019Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\003_Integer\\Program.cs",
               "RelativeDocumentMoniker": "003_Integer\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\CsharpStudy\\CSharpProject\\DDazua\\003_Integer\\Program.cs",
               "RelativeToolTip": "003_Integer\\Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAUwFIAAABBAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T15:31:44.39Z",
               "EditorCaption": ""
