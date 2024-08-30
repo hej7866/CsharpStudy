@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\bin\Debug\009_Var.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\bin\Debug\009_Var.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\bin\Debug\009_Var.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\obj\Debug\009_Var.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\obj\Debug\009_Var.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\obj\Debug\009_Var.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\009_Var\obj\Debug\009_Var.pdb
