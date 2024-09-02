@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\bin\Debug\011_Char.exe.config
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\bin\Debug\011_Char.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\bin\Debug\011_Char.pdb
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\obj\Debug\011_Char.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\obj\Debug\011_Char.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\obj\Debug\011_Char.exe
+C:\Users\USER\Desktop\CsharpStudy\CSharpProject\DDazua\011_Char\obj\Debug\011_Char.pdb
